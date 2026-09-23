@@ -1,0 +1,46 @@
+# Compilados e Binários
+*
+!*/
+!*.*
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Pastas de Build
+build/
+Build/
+bin/
+obj/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.ncb
+*.sdf
+*.filters
+
+# VS Code
+.vscode/
+
+# Arquivos temporários e de log
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
